@@ -11,6 +11,8 @@ class CarModel extends BaseModel {
         img: true,
         year: true,
         price: true,
+      seat: true,
+      baggage: true,
     };
   }
 }
